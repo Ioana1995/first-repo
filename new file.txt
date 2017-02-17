@@ -1,6 +1,3 @@
 Content...
-<<<<<<< HEAD
 Different Content...
-=======
 New Content
->>>>>>> 485518a3e2ba42c0113934f399c7c8a79bfc746f
